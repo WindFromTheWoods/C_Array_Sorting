@@ -1,1 +1,1 @@
-"# C_Array_Sorting" 
+Array with 10 random element and func of sorting this array
